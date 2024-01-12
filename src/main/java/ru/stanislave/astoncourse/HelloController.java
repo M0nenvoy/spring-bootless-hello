@@ -1,10 +1,10 @@
-package ru.alishev.springcourse;
+package ru.stanislave.astoncourse;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**
- * @author Neil Alishev
+ * @author Stanislave
  */
 @Controller
 public class HelloController {

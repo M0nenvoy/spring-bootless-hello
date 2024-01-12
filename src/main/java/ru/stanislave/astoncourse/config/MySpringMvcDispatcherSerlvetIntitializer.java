@@ -1,4 +1,4 @@
-package ru.alishev.springcourse.config;
+package ru.stanislave.astoncourse.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
